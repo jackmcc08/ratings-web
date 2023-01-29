@@ -12,6 +12,9 @@
         
       </div>
     </div>
+    <div>
+      <h1>This is Jack's kubernetes deployment of this app, hope you enjoy it.</h1>
+    </div>
     <div class="row at-row flex-center flex-middle">
       <div class="col-lg-3">
       </div>
